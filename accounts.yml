@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Delivery accounts related local APIs config "
+  message: "Welcome to Delivery accounts related local APIs config -git "
   contactDetails:
     name: "Anurag Upadhyay - Developer"
     email: "anurag@delivery.com"

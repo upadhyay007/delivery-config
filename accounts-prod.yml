@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Delivery accounts related prod APIs config"
+  message: "Welcome to Delivery accounts related prod APIs config -git"
   contactDetails:
     name: "Anurag Upadhyay - Product Owner"
     email: "anurag@delivery.com"
